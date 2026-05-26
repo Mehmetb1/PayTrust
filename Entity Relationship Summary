@@ -1,0 +1,9 @@
+users ──────────────── projects (employer_id)
+  │                        │
+  │                    project_members ──── payouts
+  │                        │
+  └──── invitations ───────┘
+  │
+  └──── otp_tokens
+  └──── notifications
+  └──── escrow_transactions (from/to)
