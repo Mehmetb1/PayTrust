@@ -1,0 +1,11 @@
+/db
+  ├── 00_extensions.sql
+  ├── 01_enums.sql
+  ├── 02_users.sql
+  ├── 03_projects.sql
+  ├── 04_invitations.sql
+  ├── 05_escrow_transactions.sql
+  ├── 06_payouts.sql
+  ├── 07_notifications.sql
+  ├── 08_otp_tokens.sql
+  └── 09_indexes_and_rls.sql
